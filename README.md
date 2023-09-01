@@ -52,6 +52,7 @@ https://www.figma.com/file/83BMM5FU9LK2CMFivxNwPe/project-designs?type=design&no
 
 
 ## Poster
-<img src="https://github.com/Janani811/GitHubFinder/assets/61917978/c851a9a0-da2a-4fd3-baed-ac5a4c637c03" alt="poster">
+<img src="https://github.com/Janani811/GitHubFinder/assets/61917978/c851a9a0-da2a-4fd3-baed-ac5a4c637c03" alt="poster" style="width: 200px;
+    height: 300px;object-fit:contain;">
 
 
