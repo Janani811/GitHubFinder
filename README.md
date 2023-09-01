@@ -28,6 +28,10 @@ To run this project run
 
 https://www.figma.com/file/83BMM5FU9LK2CMFivxNwPe/project-designs?type=design&node-id=0%3A1&mode=dev
 
+## Poster
+<img src="https://github.com/Janani811/GitHubFinder/assets/61917978/c851a9a0-da2a-4fd3-baed-ac5a4c637c03" alt="poster" style="width: 400px;
+    height: 600px;object-fit:contain;">
+
 ## Screenshots
 <img src="https://github.com/sachinelavarasan/GitHubFinder/assets/31089822/571b9d97-d1ce-4e8a-a402-c0524b0047f1" alt="splash" style="width: 100px;
     height: 200px;object-fit:contain;">
@@ -51,8 +55,6 @@ https://www.figma.com/file/83BMM5FU9LK2CMFivxNwPe/project-designs?type=design&no
     height: 200px;object-fit:contain;">
 
 
-## Poster
-<img src="https://github.com/Janani811/GitHubFinder/assets/61917978/c851a9a0-da2a-4fd3-baed-ac5a4c637c03" alt="poster" style="width: 200px;
-    height: 300px;object-fit:contain;">
+
 
 
