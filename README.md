@@ -52,7 +52,6 @@ https://www.figma.com/file/83BMM5FU9LK2CMFivxNwPe/project-designs?type=design&no
 
 
 ## Poster
-<img src="https://www.canva.com/design/DAFs6yQ3BE0/hyKXPz6wlLVo9PqyzQa5ug/watch?utm_content=DAFs6yQ3BE0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" alt="poster">
-
+<img src="https://github.com/Janani811/GitHubFinder/assets/61917978/c851a9a0-da2a-4fd3-baed-ac5a4c637c03" alt="poster">
 
 
