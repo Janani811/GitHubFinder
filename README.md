@@ -51,4 +51,9 @@ https://www.figma.com/file/83BMM5FU9LK2CMFivxNwPe/project-designs?type=design&no
     height: 200px;object-fit:contain;">
 
 
+## Poster
+<img src="https://github.com/sachinelavarasan/GitHubFinder/assets/31089822/5b47b34d-e59c-4a84-b622-c57f272c990f](https://www.canva.com/design/DAFs6yQ3BE0/hyKXPz6wlLVo9PqyzQa5ug/watch?utm_content=DAFs6yQ3BE0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)https://www.canva.com/design/DAFs6yQ3BE0/hyKXPz6wlLVo9PqyzQa5ug/watch?utm_content=DAFs6yQ3BE0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" alt="poster" style="width: 100px;
+    height: 200px;object-fit:contain;">
+
+
 
